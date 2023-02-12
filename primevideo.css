@@ -1,0 +1,76 @@
+@-moz-document domain("primevideo.com") {
+.ffszj3z, .f8hspre , .f1icw8u{
+cursor: default!important;
+}
+
+.pausedOverlay .buttons {
+cursor: pointer!important;
+}
+.contentTitlePanel{
+display: flex;
+}
+
+/* player button */
+.f1aiijcp   {
+    position: absolute;
+    top:101%;
+    transform: scale(0.4);
+    z-index:99;
+    opacity: 100%;
+}
+
+/* BG overlay */
+.ffszj3z, .f8hspre , .f1icw8u{
+background: rgba(188, 31, 31, 0)!important;
+}
+
+
+/* Other buttons like subtitles */
+.atvwebplayersdk-hideabletopbuttons-container {
+    transform: scale(0.5);
+    position: absolute;
+    right: 5em !important;
+}
+
+/*close buttons */
+.atvwebplayersdk-closebutton-wrapper {
+    transform: scale(0.5);
+}
+
+/*Main titile */
+.atvwebplayersdk-title-text {
+    position: absolute;
+   font-size: 26px!important;
+   left:3%;
+    top:3%;
+}
+
+/*Secondary titile */
+.atvwebplayersdk-subtitle-text{
+    position: absolute;
+   font-size: 18px!important;
+   left:3%;
+    top:6%;
+}
+
+/*Time indicator */
+.atvwebplayersdk-timeindicator-text {
+    font-size: 20px !important;
+}
+
+/*HD stuff */
+.fzmjscm, .f9ypf1u {
+   visibility: hidden;
+}
+
+/*Next epsideo also controls time  controller */
+.fiqc9rt, .f17ept9u {
+    font-size: 14px;
+}
+.xrayQuickViewList {
+    visibility: hidden !important;
+}
+.collapsibleXrayHeader {
+    visibility:hidden !important;
+}
+}
