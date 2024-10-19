@@ -1,3 +1,14 @@
+/* ==UserStyle==
+@name         Prime Videos
+@description  Clean interface for Prime Videos
+@namespace    None
+@author       https://github.com/revoconner
+@version      2.2
+@homepageURL  https://revoconner.com
+@updateURL    https://github.com/revoconner/Prime-Video-Better-UI/raw/refs/heads/main/primevideo.user.css
+@license      None
+==/UserStyle== */
+
 @-moz-document domain("primevideo.com") {
 .ffszj3z, .f8hspre , .f1icw8u{
 cursor: default!important;
