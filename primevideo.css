@@ -73,4 +73,7 @@ background: rgba(188, 31, 31, 0)!important;
 .collapsibleXrayHeader {
     visibility:hidden !important;
 }
+.xrayQuickView {
+    visibility: hidden !important;
+}
 }
